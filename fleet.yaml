@@ -1,0 +1,7 @@
+helm:
+  values:
+    gitea:
+      database:
+        builtIn:
+          postgresql:
+            enabled: true
