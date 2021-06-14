@@ -1,0 +1,3 @@
+helm:
+  chart: ./
+  repo: https://github.com/atoy3731/gitea.git
